@@ -1,0 +1,116 @@
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Computer Managment System.exe.config
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Computer Managment System.exe
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Computer Managment System.pdb
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.Charts.WinForms.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.Dataviz.WinForms.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.Licensing.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.Reports.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.Utils.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\OpenHtmlToPdf.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.Charts.WinForms.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.Dataviz.WinForms.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer Managment System.csproj.AssemblyReference.cache
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Dashboard.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Properties.Resources.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer Managment System.csproj.GenerateResource.cache
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer Managment System.csproj.CoreCompileInputs.cache
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer Managment System.csproj.CopyComplete
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer Managment System.exe
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer Managment System.pdb
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer Managment System.exe.licenses
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\MySQL.Portable.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.SellerDashboard.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.AdminDashboard.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Reports.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Orders.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.order_CreateOrder.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.view_Order.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Login.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.ViewDetails.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.supplierUpdate.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.SearchPayment.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.StockAdd.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.stockEdits.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.StockPrintcs.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Stocks.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.StockSearch.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.CustomerDetailQ.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Quotations.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.ViewQuotation.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.ViewQuotationList.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.BillList.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.detailBill.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.ServiceRepair_NewRepair.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.ServiceRepair_Print.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.ServiceRepair_StatusEdit.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\bin\Debug\EasyHTMLReports.dll
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Forms.Kavindi.printSupplierRep.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Forms.Anuththara.ServiceRepair_Report.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Forms.Anuththara.ServiceRepair_View.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Forms.Dimuthu.StockAnalysis.resources
+J:\ITP\Project Files\Computer Managment System\Computer Managment System\obj\Debug\Computer_Managment_System.Forms.Shashika.ordersMonthlyRep.resources
